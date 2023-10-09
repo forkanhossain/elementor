@@ -2,5 +2,6 @@ If you are looking for the same issue as Elementor Mega menu active item doesn't
 # Elementor Mega Menu Issues
 # Fixed Elementor Mega Menu click outside does not close Issue
 # Active mode does not work well in mega menu
+# Please add these javaScript code from footer.php file to your Wordpress footer.php and save it. Hopefully it will work properly. 
 
-Thanks for watching. If you need any help to fix this type of issue, please with me. Thanks again!
+If you need any help to fix this issue, please contact with me. Thank you so much!
